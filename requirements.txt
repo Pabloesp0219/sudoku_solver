@@ -1,0 +1,4 @@
+# No external dependencies required for basic functionality
+# Add these if you want enhanced features:
+# numpy>=1.21.0  # For advanced mathematical operations
+# pytest>=6.0.0  # Alternative testing framework
